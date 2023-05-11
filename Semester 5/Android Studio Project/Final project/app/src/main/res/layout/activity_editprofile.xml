@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Editprofile">
+
+
+    <FrameLayout
+        android:id="@+id/image_logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8">
+
+        <!-- <androidx.appcompat.widget.AppCompatImageView
+             android:id="@+id/profilePic"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:layout_gravity="bottom|center_horizontal"
+             android:background="@+id/IVPreviewImage" />-->
+
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/IVPreviewImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/editpic"
+            app:civ_border_color="@color/white"
+            app:civ_border_width="3dp"
+            app:civ_circle_color="#E1DFDF"
+            app:civ_shadow_radius="10dp" />
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/iv_camera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:layout_marginLeft="20dp"
+            android:backgroundTint="@color/Pink"
+            android:src="@drawable/camerawhite"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/fab_twitter"
+            app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+            app:tint="@null" />
+    </FrameLayout>
+
+    <!--ImageView to preview the selected image-->
+
+    <!--<ImageView
+        android:id="@+id/BSelectImage"
+        android:layout_width="63dp"
+        android:layout_height="43dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="108dp"
+        android:background="@drawable/circularpic"
+        android:layot_marginEnd="80dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/IVPreviewImage"
+        app:srcCompat="@drawable/camera" />-->
+    <RelativeLayout
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/Pink"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="44dp"
+
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="159dp"
+            android:fontFamily="sans-serif"
+            android:text="Profile"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+    </RelativeLayout>
+
+
+    <!--Name start-->
+
+
+    <!--Name end -->
+
+
+    <!--email start -->
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:drawableStart="@drawable/profile"
+        android:text="          Name"
+
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/textView8" />
+
+    <EditText
+        android:id="@+id/editTextname"
+        android:layout_width="210dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="tariq farooqi"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/name" />
+
+
+    <EditText
+        android:id="@+id/editemail"
+        android:layout_width="254dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:text="tsalamfarooqi@gmail.com"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.623"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/email" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="358dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="32dp"
+        android:drawableStart="@drawable/email"
+
+        android:text="          Email"
+
+        android:textSize="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextname" />
+
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Submit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/image_logo" />
+    -->
+
+    <!--email end -->
+
+
+    <!--<com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/IVPreviewImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/BSelectImage"
+        android:layout_marginTop="28dp"
+        android:src="@drawable/editpic"
+        app:civ_border_color="@color/black"
+        app:civ_border_width="3dp"
+        app:civ_circle_color="#E1DFDF"
+        app:civ_shadow_radius="10dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.421"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
