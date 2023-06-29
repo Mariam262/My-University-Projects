@@ -4,9 +4,9 @@ This repository contains the projects that I have completed during my time at Ri
 
 ## Table of Contents
 
-- [Semester 3](#semester3)
-- [Semester 4](#semester4)
-- [Semester 5](#semester5)
+- [Semester 3](#semester-3)
+- [Semester 4](#semester-4)
+- [Semester 5](#semester-5)
 
 
 ### 🌟 Semester 3 
@@ -53,43 +53,29 @@ The elements that comprise an SRS are
 	* Apply mood boards and style guides
   	* Develop High fidelity prototypes of your system
 
-◼ **Tools:** The mid-fidelity prototypes i.e wireframes and High fidelity prototypes are designed using Figma tool.Here is the link of tool https://figma.io/
+◼ **Tools:** The mid-fidelity prototypes i.e wireframes and High fidelity prototypes are designed using Figma tool.Here is the link of tool ▶️ https://figma.io/ ◀️
 
 
 ## 🌟 Semester 5
 
-◼ **Project Name:** Android Studio Project
+◼  **Project Name 1 :** Android Studio Project
 
-◼ **Description:**  This project is we are working to develop a mobile application called Ice Cream Parlor to makeit easier for customers to order online. Through this app, customers can order while sitting at
-home. It entails searching online and landing on a website that offers customers services that
-allow them to add multiple ice creams to their carts. They can also adjust the quantities when
-they choose the ice cream they desire. 
+◼ **Description:**  Me and my team has worked to develop a mobile application called Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire. 
 
-◼ **Screenshot/Demo:**
-
-◼ **Installation:**
-
-◼ **Usage:**
+◼ **Installation:** Install Android Studio in your computers from here ▶️ https://developer.android.com/studio ◀️ and then run this project. Ensure that Gradle and SDK sync with your Android Studio SDK version if not then update the Android Studio.
 
 
+◼  **Project Name 2 :** Delico - A Cafe Management System
 
-## Contributing
+◼ **Description:**  When your system's software requirements specification (SRS) and designing user interfaces for web or mobile application are ready the next steps comes  under the Software Construction & Development subject in which we have to construct, develop and model the diagrams related to project such as,
 
-If you would like to contribute to this repository, feel free to follow these steps:
+1. Use-Case Modelling
+2. Activity Diagram
+3. Domain Model
+4. Class Diagram
+5. Sequence Diagram
+6. State Transition Diagram
 
-1. Fork the repository.
-2. Create a new branch for your contributions.
-3. Commit your changes and push the branch.
-4. Open a pull request, describing the changes you made.
-
-Please ensure that your contributions align with the guidelines and coding standards followed in this repository.
-
-## License
-
-Specify the license under which your projects are released. For example:
-
-The projects in this repository are licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code as per the terms of this license.
-
-
-
+## Conclusion
+✅ These documentation is very helpful in designing and building your software system.
 
