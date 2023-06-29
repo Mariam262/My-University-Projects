@@ -7,8 +7,9 @@ This repository contains the projects that I have completed during my time at Ri
 - [Semester 3](#semester-3)
 - [Semester 4](#semester-4)
 - [Semester 5](#semester-5)
+- [Conclusion](#conclusion)
 
-
+<a name="semester-3"></a>
 ### 🌟 Semester 3 
 
 ◼ **Project Name:** MFAS-An Online Shopping System
@@ -26,7 +27,7 @@ The elements that comprise an SRS are
 
 🚀 An SRS gives you a complete picture of your entire project.It provides a single source of truth that every team involved in development will follow.
 
-
+<a name="semester-4"></a>
 ## 🌟 Semester 4
 
 ◼ **Project Name:** Knock & Groce Online Grocery Delivering System
@@ -55,7 +56,7 @@ The elements that comprise an SRS are
 
 ◼ **Tools:** The mid-fidelity prototypes i.e wireframes and High fidelity prototypes are designed using Figma tool.Here is the link of tool ▶️ https://figma.io/ ◀️
 
-
+<a name="semester-5"></a>
 ## 🌟 Semester 5
 
 ◼  **Project Name 1 :** Android Studio Project
@@ -76,6 +77,7 @@ The elements that comprise an SRS are
 5. Sequence Diagram
 6. State Transition Diagram
 
+<a name="conclusion"></a>
 ## Conclusion
 ✅ These documentation is very helpful in designing and building your software system.
 
