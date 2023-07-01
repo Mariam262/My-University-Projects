@@ -63,7 +63,7 @@ The elements that comprise an SRS are
 
 ◼  **Project Name 1 :** Android Studio Project
 
-◼ **Description:**  Me and my team has worked to develop a mobile application called Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire. 
+◼ **Description:**  A mobile application project - Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire. 
 
 ◼ **Installation:** Install Android Studio in your computers from here ▶️ https://developer.android.com/studio ◀️ and then run this project. Ensure that Gradle and SDK sync with your Android Studio SDK version if not then update the Android Studio.
 
