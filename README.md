@@ -32,7 +32,7 @@ The elements that comprise an SRS are
 
 ◼ **Project Name:** Knock & Groce Online Grocery Delivering System
 
-◼ **Description:** A project on the Human-Computer Interaction subject which consists of the follwoing stages,
+◼ **Description:** A project on the Human-Computer Interaction subject which consists of the following stages,
 
 1.	Discovery
 	* Conduct user interviews
@@ -56,6 +56,8 @@ The elements that comprise an SRS are
 
 ◼ **Tools:** The mid-fidelity prototypes i.e wireframes and High fidelity prototypes are designed using Figma tool.Here is the link of tool ▶️ https://figma.io/ ◀️
 
+🚀 User interface design is a crucial aspect of software engineering, as it is the means by which users interact with software applications. 
+
 <a name="semester-5"></a>
 ## 🌟 Semester 5
 
@@ -65,6 +67,7 @@ The elements that comprise an SRS are
 
 ◼ **Installation:** Install Android Studio in your computers from here ▶️ https://developer.android.com/studio ◀️ and then run this project. Ensure that Gradle and SDK sync with your Android Studio SDK version if not then update the Android Studio.
 
+-------------------------------------------------------------------------------
 
 ◼  **Project Name 2 :** Delico - A Cafe Management System
 
@@ -77,7 +80,9 @@ The elements that comprise an SRS are
 5. Sequence Diagram
 6. State Transition Diagram
 
+ 🚀 Software diagrams visually represent software components, relationships, and system interactions. They document, analyze, and communicate software design and are used to make decisions on implementation.
+
 <a name="conclusion"></a>
 ## Conclusion
-✅ These documentation is very helpful in designing and building your software system.
+✅ These documentation is very helpful in designing and building your software system ✌️.
 
