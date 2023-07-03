@@ -1,6 +1,6 @@
 # My-University-Projects
 
-This repository contains the projects that I have completed during my time at Riphah International Univeristy. Each project represents a significant milestone in my academic journey, showcasing my skills and knowledge in various subjects.👇👇
+Here are all the projects that I have completed during my time at Riphah International Univeristy. Each project represents a significant milestone in my academic journey, showcasing my skills and knowledge in various subjects.👇👇
 
 ## Table of Contents
 
