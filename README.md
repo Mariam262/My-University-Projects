@@ -14,7 +14,7 @@ This repository contains the projects that I have completed during my time at Ri
 
 ◼ **Project Name:** MFAS-An Online Shopping System
 
-◼️ **Description:** MFAS-An Online Shopping System is a software requirements specification (SRS) that describes what the software will do and how it will be expected to perform. It also describes the functionality the product needs to fulfill the needs of all stakeholders (business, users).
+◼️ **Description:** MFAS-An Online Shopping System is a software requirements specification (SRS) 📜 that describes what the software will do and how it will be expected to perform. It also describes the functionality the product needs to fulfill the needs of all stakeholders (business, users).
 The elements that comprise an SRS are
     
 1. Define the Problem Statement and Product's Purpose
@@ -30,7 +30,7 @@ The elements that comprise an SRS are
 <a name="semester-4"></a>
 ## 🌟 Semester 4
 
-◼ **Project Name:** Knock & Groce Online Grocery Delivering System
+◼ **Project Name:** Knock & Groce Online Grocery Delivering System 🚛
 
 ◼ **Description:** A project on the Human-Computer Interaction subject which consists of the following stages,
 
@@ -56,16 +56,21 @@ The elements that comprise an SRS are
 
 ◼ **Tools:** The mid-fidelity prototypes i.e wireframes and High fidelity prototypes are designed using Figma tool.Here is the link of tool ▶️ https://figma.io/ ◀️
 
-🚀 User interface design is a crucial aspect of software engineering, as it is the means by which users interact with software applications. 
+🚀 User interface design is a crucial aspect of software engineering, as it is the means by which users interact with software applications.
 
 <a name="semester-5"></a>
 ## 🌟 Semester 5
 
 ◼  **Project Name 1 :** Android Studio Project
 
-◼ **Description:**  A mobile application project - Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire. 
+◼ **Description:**  A mobile application project - Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire.
+
+◼ **Tools and Technologies:** Android Studio
+
+<img src="https://github.com/Mariam262/My-University-Projects/assets/111905121/92df822b-7f1c-49df-ade6-f87fc96ce76d" width="100" height="100" />
 
 ◼ **Installation:** Install Android Studio in your computers from here ▶️ https://developer.android.com/studio ◀️ and then run this project. Ensure that Gradle and SDK sync with your Android Studio SDK version if not then update the Android Studio.
+
 
 -------------------------------------------------------------------------------
 
@@ -84,5 +89,5 @@ The elements that comprise an SRS are
 
 <a name="conclusion"></a>
 ## Conclusion
-✅ These documentation is very helpful in designing and building your software system ✌️.
+📝 These documentation is very helpful in designing and building your software system ✨.
 
