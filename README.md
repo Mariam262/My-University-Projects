@@ -65,9 +65,11 @@ The elements that comprise an SRS are
 
 ◼ **Description:**  A mobile application project - Ice Cream Parlor to make it easier for customers to order online.It entails searching online and landing on a website that offers customers services that allow them to add multiple ice creams to their carts. They can also adjust the quantities when they choose the ice cream they desire.
 
-◼ **Tools and Technologies:** Android Studio
+◼ **Tools and Technologies:** 
 
-<img src="https://github.com/Mariam262/My-University-Projects/assets/111905121/92df822b-7f1c-49df-ade6-f87fc96ce76d" width="100" height="100" />
+<p align="center">
+  <img width="250" height="150" src="https://github.com/Mariam262/My-University-Projects/assets/111905121/147c3237-ef2c-4de4-97f5-78034e0ab664">
+</p>
 
 ◼ **Installation:** Install Android Studio in your computers from here ▶️ https://developer.android.com/studio ◀️ and then run this project. Ensure that Gradle and SDK sync with your Android Studio SDK version if not then update the Android Studio.
 
