@@ -32,7 +32,7 @@ The elements that comprise an SRS are
 
 ◼ **Project Name:** Knock & Groce Online Grocery Delivering System 🚛
 
-◼ **Description:** A project on the Human-Computer Interaction subject which consists of the following stages,
+◼ **Description:** A project on the Human-Computer Interaction subject which consists of the following stages and the process followed in the design,
 
 1.	Discovery
 	* Conduct user interviews
